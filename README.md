@@ -1,4 +1,4 @@
-# my_year_at_work
+# My year at work
 
 
 
@@ -9,4 +9,3 @@ Visualization looks like : ![indexec9e476717d0fe2f.png](https://hostux.pics/imag
 
 to get visualization like this one, just fill the .csv file and run it 
 
-you can play with the code here : https://mybinder.org/v2/gh/pnizet/my_year_at_work/46f317687dfc550ac5d3efa89e240e1e81c0c73f
